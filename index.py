@@ -1,4 +1,3 @@
-from email.mime import image
 from gnewsclient import gnewsclient
 import tkinter as tk
 import nltk
